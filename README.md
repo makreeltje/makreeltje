@@ -1,5 +1,14 @@
 ### Hi there 👋
 
+<div align="center">
+    <h2>My Stats</h2>
+    <p>
+        <img src="https://github-readme-stats.vercel.app/api/top-langs?username=rick043&theme=Gradient&count_private=true&layout=compact" alt="My top languages"/>
+        <img src="https://github-readme-stats.vercel.app/api/wakatime?username=rick043" alt="My Wakatime stats">
+        <img src="https://github-readme-stats.vercel.app/api?username=rick043&theme=Gradient&show_icons=true&count_private=true" alt="My GitHub stats"/>
+    </p>
+</div>
+
 <!--
 **rick043/rick043** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
