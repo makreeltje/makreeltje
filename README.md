@@ -1,5 +1,7 @@
 ### Hi there 👋
 
+[![wakatime](https://wakatime.com/badge/user/87a56c56-0839-439d-aa17-d8423f20003f.svg)](https://wakatime.com/@87a56c56-0839-439d-aa17-d8423f20003f)
+
 <div align="center">
     <h2>My Stats</h2>
     <p>
