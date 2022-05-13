@@ -61,5 +61,7 @@
 - Cloud-native development
 - Integration
 
+## 📊 Stats
 
+![Makreeltje's GitHub stats](https://github-readme-stats.vercel.app/api?username=makreeltje&show_icons=true&theme=dracula)
 
