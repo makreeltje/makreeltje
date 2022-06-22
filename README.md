@@ -1,8 +1,14 @@
-# Rick
+# Hi! I am <a href="https://github.com/makreeltje">Rick</a>, a developer from The Netherlands!
 
-![Profile Views](https://komarev.com/ghpvc/?username=makreeltje)
+![Profile Views](https://komarev.com/ghpvc/?username=makreeltje&style=for-the-badge)
 
 🏫 Student Bachelor Software Development
+
+## 📬 Find me at
+
+[![Github](https://img.shields.io/badge/-Github-000?style=for-the-badge&logo=Github&logoColor=white)](https://github.com/makreeltje)
+[![Linkedin](https://img.shields.io/badge/-LinkedIn-blue?style=for-the-badge&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/rick-meels-15311993/)
+[![Outlook](https://img.shields.io/badge/-Outlook-0078D4?style=for-the-badge&logo=Microsoft-Outlook&logoColor=white)](mailto:rick.meels@gmail.com)
 
 ## 👨‍💻 Technologies
 
